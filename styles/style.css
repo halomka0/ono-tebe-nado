@@ -210,7 +210,6 @@
     display: flex;
     flex-direction: row;
     padding: 0 24px;
-    height: 596px;
     gap: 25px;
     margin-bottom: 180px;
   }
